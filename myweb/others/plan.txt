@@ -1,0 +1,2 @@
+Django web project
+Day01 https://docs.djangoproject.com/zh-hans/2.1/intro/tutorial02/  连接数据，建立模型
